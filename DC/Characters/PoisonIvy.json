@@ -1,0 +1,393 @@
+{
+  "fileDetails": {
+    "UUID": "55938b50-ff62-4f4e-b3d8-6902e5bf025d",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Poison Ivy Reading Order",
+    "description": "Reading order for Poison Ivy character in DC comics",
+    "publisher": "DC",
+    "type": "character",
+    "tags": [
+      "poison ivy",
+      "dc",
+      "batman"
+    ],
+    "startYear": 1966,
+    "endYear": 1995
+  },
+  "issueList": [
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "181",
+      "issueCoverDate": "1966-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "8577"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "339",
+      "issueCoverDate": "1981-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "21479"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "344",
+      "issueCoverDate": "1982-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "21890"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "367",
+      "issueCoverDate": "1984-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "23825"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "534",
+      "issueCoverDate": "1984-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "112988"
+        }
+      ]
+    },
+    {
+      "seriesName": "Secret Origins",
+      "seriesStartYear": 1986,
+      "issueNumber": "36",
+      "issueCoverDate": "1989-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "30746"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Shadow of the Bat Annual",
+      "seriesStartYear": 1993,
+      "issueNumber": "3",
+      "issueCoverDate": "1995-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "70726"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "589",
+      "issueCoverDate": "1988-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113057"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "33",
+      "issueCoverDate": "1989-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "31628"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "34",
+      "issueCoverDate": "1989-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "31737"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "35",
+      "issueCoverDate": "1989-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "31843"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "36",
+      "issueCoverDate": "1989-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32037"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "37",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32302"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "38",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32397"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "39",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32499"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "40",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32607"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "41",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32705"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "42",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32811"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "43",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32939"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "44",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "33054"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "45",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "33169"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "46",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "33290"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "47",
+      "issueCoverDate": "1990-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "33399"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "64",
+      "issueCoverDate": "1992-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "35557"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "65",
+      "issueCoverDate": "1992-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "35661"
+        }
+      ]
+    },
+    {
+      "seriesName": "Suicide Squad",
+      "seriesStartYear": 1987,
+      "issueNumber": "66",
+      "issueCoverDate": "1992-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "35812"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Legends of the Dark Knight",
+      "seriesStartYear": 1992,
+      "issueNumber": "42",
+      "issueCoverDate": "1993-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "36882"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Legends of the Dark Knight",
+      "seriesStartYear": 1992,
+      "issueNumber": "43",
+      "issueCoverDate": "1993-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "36997"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman/Green Arrow: The Poison Tomorrow",
+      "seriesStartYear": 1992,
+      "issueNumber": "1",
+      "issueCoverDate": "1992-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "173369"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "495",
+      "issueCoverDate": "1993-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "37419"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Poison Ivy",
+      "seriesStartYear": 1997,
+      "issueNumber": "1",
+      "issueCoverDate": "1997-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "134293"
+        }
+      ]
+    }
+  ]
+}
