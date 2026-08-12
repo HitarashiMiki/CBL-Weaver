@@ -388,6 +388,222 @@
           "issue": "134293"
         }
       ]
+    },
+    {
+      "seriesName": "The Batman Chronicles",
+      "seriesStartYear": 1995,
+      "issueNumber": "9",
+      "issueCoverDate": "1997-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "173359"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "751",
+      "issueCoverDate": "2000-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113237"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "752",
+      "issueCoverDate": "2000-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113238"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "608",
+      "issueCoverDate": "2002-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "124939"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "609",
+      "issueCoverDate": "2003-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "124980"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "610",
+      "issueCoverDate": "2003-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "125046"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "611",
+      "issueCoverDate": "2003-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "125134"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "612",
+      "issueCoverDate": "2003-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "125222"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "613",
+      "issueCoverDate": "2003-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "121730"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "614",
+      "issueCoverDate": "2003-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "121729"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "615",
+      "issueCoverDate": "2003-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "125291"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "616",
+      "issueCoverDate": "2003-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "91385"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "617",
+      "issueCoverDate": "2003-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "91386"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "618",
+      "issueCoverDate": "2003-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "91387"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 1940,
+      "issueNumber": "619",
+      "issueCoverDate": "2003-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "91388"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "797",
+      "issueCoverDate": "2004-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113382"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "798",
+      "issueCoverDate": "2004-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113383"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "799",
+      "issueCoverDate": "2004-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113384"
+        }
+      ]
     }
   ]
 }
