@@ -604,6 +604,486 @@
           "issue": "113384"
         }
       ]
+    },
+    {
+      "seriesName": "Batman: Gotham Knights",
+      "seriesStartYear": 2000,
+      "issueNumber": "61",
+      "issueCoverDate": "2005-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "100903"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Gotham Knights",
+      "seriesStartYear": 2000,
+      "issueNumber": "62",
+      "issueCoverDate": "2005-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "100904"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Gotham Knights",
+      "seriesStartYear": 2000,
+      "issueNumber": "63",
+      "issueCoverDate": "2005-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "100905"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Gotham Knights",
+      "seriesStartYear": 2000,
+      "issueNumber": "64",
+      "issueCoverDate": "2005-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "141728"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Gotham Knights",
+      "seriesStartYear": 2000,
+      "issueNumber": "65",
+      "issueCoverDate": "2005-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "141729"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "823",
+      "issueCoverDate": "2006-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "113419"
+        }
+      ]
+    },
+    {
+      "seriesName": "Joker's Asylum: Poison Ivy",
+      "seriesStartYear": 2008,
+      "issueNumber": "1",
+      "issueCoverDate": "2008-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "133775"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Battle for the Cowl",
+      "seriesStartYear": 2009,
+      "issueNumber": "1",
+      "issueCoverDate": "2009-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "190637"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman: Battle for the Cowl: The Underground",
+      "seriesStartYear": 2009,
+      "issueNumber": "1",
+      "issueCoverDate": "2009-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "156117"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "1",
+      "issueCoverDate": "2009-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "161602"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "2",
+      "issueCoverDate": "2009-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "164855"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "3",
+      "issueCoverDate": "2009-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "168406"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "4",
+      "issueCoverDate": "2009-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "173441"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "5",
+      "issueCoverDate": "2009-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "179210"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "6",
+      "issueCoverDate": "2010-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "184968"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "7",
+      "issueCoverDate": "2010-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "189485"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "8",
+      "issueCoverDate": "2010-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "194261"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "9",
+      "issueCoverDate": "2010-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "198283"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "10",
+      "issueCoverDate": "2010-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "202813"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "11",
+      "issueCoverDate": "2010-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "210576"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "12",
+      "issueCoverDate": "2010-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "216205"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "13",
+      "issueCoverDate": "2010-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "221895"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "14",
+      "issueCoverDate": "2010-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "226879"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "15",
+      "issueCoverDate": "2010-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "231609"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "16",
+      "issueCoverDate": "2010-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "236258"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "17",
+      "issueCoverDate": "2010-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "246456"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "18",
+      "issueCoverDate": "2011-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "252627"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "19",
+      "issueCoverDate": "2011-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "259834"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "20",
+      "issueCoverDate": "2011-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "263705"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "21",
+      "issueCoverDate": "2011-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "267099"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "22",
+      "issueCoverDate": "2011-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "268724"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "23",
+      "issueCoverDate": "2011-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "271426"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "24",
+      "issueCoverDate": "2011-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "276572"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "25",
+      "issueCoverDate": "2011-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "281532"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2009,
+      "issueNumber": "26",
+      "issueCoverDate": "2011-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "288420"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "1",
+      "issueCoverDate": "2011-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "293260"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "2",
+      "issueCoverDate": "2011-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "297221"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "3",
+      "issueCoverDate": "2012-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "302529"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "4",
+      "issueCoverDate": "2012-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "307456"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "5",
+      "issueCoverDate": "2012-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "311663"
+        }
+      ]
     }
   ]
 }
