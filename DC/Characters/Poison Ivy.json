@@ -1084,6 +1084,282 @@
           "issue": "311663"
         }
       ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "6",
+      "issueCoverDate": "2012-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "315711"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "7",
+      "issueCoverDate": "2012-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "322740"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "8",
+      "issueCoverDate": "2012-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "331844"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "9",
+      "issueCoverDate": "2012-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "335896"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "10",
+      "issueCoverDate": "2012-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "341638"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "11",
+      "issueCoverDate": "2012-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "346224"
+        }
+      ]
+    },
+    {
+      "seriesName": "Birds of Prey",
+      "seriesStartYear": 2011,
+      "issueNumber": "12",
+      "issueCoverDate": "2012-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "350902"
+        }
+      ]
+    },
+    {
+      "seriesName": "Swamp Thing",
+      "seriesStartYear": 2011,
+      "issueNumber": "11",
+      "issueCoverDate": "2012-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "344557"
+        }
+      ]
+    },
+    {
+      "seriesName": "Swamp Thing",
+      "seriesStartYear": 2011,
+      "issueNumber": "12",
+      "issueCoverDate": "2012-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "348038"
+        }
+      ]
+    },
+    {
+      "seriesName": "Swamp Thing",
+      "seriesStartYear": 2011,
+      "issueNumber": "13",
+      "issueCoverDate": "2012-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "359831"
+        }
+      ]
+    },
+    {
+      "seriesName": "Swamp Thing",
+      "seriesStartYear": 2011,
+      "issueNumber": "14",
+      "issueCoverDate": "2013-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "365735"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "14",
+      "issueCoverDate": "2013-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "365732"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "15",
+      "issueCoverDate": "2013-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "371149"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "23.1",
+      "issueCoverDate": "2013-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "424493"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "27",
+      "issueCoverDate": "2014-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "441368"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "28",
+      "issueCoverDate": "2014-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "444470"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 2011,
+      "issueNumber": "29",
+      "issueCoverDate": "2014-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "446946"
+        }
+      ]
+    },
+    {
+      "seriesName": "Secret Origins",
+      "seriesStartYear": 2014,
+      "issueNumber": "10",
+      "issueCoverDate": "2015-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "480635"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "2",
+      "issueCoverDate": "2014-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "442872"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "6",
+      "issueCoverDate": "2014-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "453362"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "7",
+      "issueCoverDate": "2014-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "456501"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "15",
+      "issueCoverDate": "2015-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "481570"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "16",
+      "issueCoverDate": "2015-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "484845"
+        }
+      ]
     }
   ]
 }

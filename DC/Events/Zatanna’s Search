@@ -1,0 +1,95 @@
+{
+  "fileDetails": {
+    "UUID": "8acb7d1f-fdd3-44f6-b2a1-3c8579f03777",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Zatanna's Search",
+    "description": "Zatanna attempts to reconnect with her father,  Zatara,  and seeks the aid of several heroes along the way.",
+    "publisher": "DC",
+    "type": "event",
+    "tags": [
+      "hawkman",
+      "zatanna",
+      "zatara",
+      "green lantern",
+      "dc"
+    ],
+    "startYear": 1966,
+    "endYear": 1995
+  },
+  "issueList": [
+    {
+      "seriesName": "Hawkman",
+      "seriesStartYear": 1964,
+      "issueNumber": "4",
+      "issueCoverDate": "1964-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "7339"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "336",
+      "issueCoverDate": "1965-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "112545"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Atom",
+      "seriesStartYear": 1962,
+      "issueNumber": "19",
+      "issueCoverDate": "1965-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "7805"
+        }
+      ]
+    },
+    {
+      "seriesName": "Green Lantern",
+      "seriesStartYear": 1960,
+      "issueNumber": "42",
+      "issueCoverDate": "1966-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "8284"
+        }
+      ]
+    },
+    {
+      "seriesName": "Detective Comics",
+      "seriesStartYear": 1937,
+      "issueNumber": "355",
+      "issueCoverDate": "1966-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "112605"
+        }
+      ]
+    },
+    {
+      "seriesName": "Justice League of America",
+      "seriesStartYear": 1960,
+      "issueNumber": "51",
+      "issueCoverDate": "1967-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "9131"
+        }
+      ]
+    }
+  ]
+}
