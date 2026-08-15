@@ -14,3 +14,6 @@ Unlike mass-generated lists, every entry here is **handcrafted** - reviewed, ord
 - Kavita (full CBL v2 support)
 - Komga
 - Other software supporting the Comic Reading List JSON standard
+
+### Source
+All of the lists are based on the reading order by the amazing https://comicbookreadingorders.com team

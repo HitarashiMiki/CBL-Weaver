@@ -1360,6 +1360,1026 @@
           "issue": "484845"
         }
       ]
+    },
+    {
+      "seriesName": "Batman Eternal",
+      "seriesStartYear": 2014,
+      "issueNumber": "37",
+      "issueCoverDate": "2015-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "473584"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman Eternal",
+      "seriesStartYear": 2014,
+      "issueNumber": "38",
+      "issueCoverDate": "2015-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "474555"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "25",
+      "issueCoverDate": "2016-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "516058"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "29",
+      "issueCoverDate": "2016-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "535504"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn",
+      "seriesStartYear": 2013,
+      "issueNumber": "30",
+      "issueCoverDate": "2016-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "541167"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "1",
+      "issueCoverDate": "2016-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "511494"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "2",
+      "issueCoverDate": "2016-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "516062"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "3",
+      "issueCoverDate": "2016-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "520179"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "4",
+      "issueCoverDate": "2016-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "526026"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "5",
+      "issueCoverDate": "2016-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "530707"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy: Cycle of Life and Death",
+      "seriesStartYear": 2016,
+      "issueNumber": "6",
+      "issueCoverDate": "2016-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "535338"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 2016,
+      "issueNumber": "41",
+      "issueCoverDate": "2018-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "660620"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 2016,
+      "issueNumber": "42",
+      "issueCoverDate": "2018-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "662052"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 2016,
+      "issueNumber": "43",
+      "issueCoverDate": "2018-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "663537"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "1",
+      "issueCoverDate": "2019-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "717921"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "2",
+      "issueCoverDate": "2019-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "721756"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "3",
+      "issueCoverDate": "2020-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "726906"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "4",
+      "issueCoverDate": "2020-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "730207"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "5",
+      "issueCoverDate": "2020-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "732697"
+        }
+      ]
+    },
+    {
+      "seriesName": "Harley Quinn & Poison Ivy",
+      "seriesStartYear": 2019,
+      "issueNumber": "6",
+      "issueCoverDate": "2020-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "737004"
+        }
+      ]
+    },
+    {
+      "seriesName": "Catwoman",
+      "seriesStartYear": 2018,
+      "issueNumber": "29",
+      "issueCoverDate": "2021-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "837680"
+        }
+      ]
+    },
+    {
+      "seriesName": "Catwoman",
+      "seriesStartYear": 2018,
+      "issueNumber": "30",
+      "issueCoverDate": "2021-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "844017"
+        }
+      ]
+    },
+    {
+      "seriesName": "Catwoman",
+      "seriesStartYear": 2018,
+      "issueNumber": "31",
+      "issueCoverDate": "2021-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "850414"
+        }
+      ]
+    },
+    {
+      "seriesName": "Catwoman",
+      "seriesStartYear": 2018,
+      "issueNumber": "32",
+      "issueCoverDate": "2021-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "859355"
+        }
+      ]
+    },
+    {
+      "seriesName": "Catwoman",
+      "seriesStartYear": 2018,
+      "issueNumber": "33",
+      "issueCoverDate": "2021-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "872344"
+        }
+      ]
+    },
+    {
+      "seriesName": "Batman",
+      "seriesStartYear": 2016,
+      "issueNumber": "124",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "929548"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "1",
+      "issueCoverDate": "2022-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "929550"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "2",
+      "issueCoverDate": "2022-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "934925"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "3",
+      "issueCoverDate": "2022-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "939728"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "4",
+      "issueCoverDate": "2022-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "946029"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "5",
+      "issueCoverDate": "2022-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "949498"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "6",
+      "issueCoverDate": "2023-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "952832"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "7",
+      "issueCoverDate": "2023-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "958750"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "8",
+      "issueCoverDate": "2023-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "962687"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "9",
+      "issueCoverDate": "2023-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "968885"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "10",
+      "issueCoverDate": "2023-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "974890"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "11",
+      "issueCoverDate": "2023-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "980981"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "12",
+      "issueCoverDate": "2023-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "986663"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "13",
+      "issueCoverDate": "2023-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "993205"
+        }
+      ]
+    },
+    {
+      "seriesName": "Knight Terrors: Poison Ivy",
+      "seriesStartYear": 2023,
+      "issueNumber": "1",
+      "issueCoverDate": "2023-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "998996"
+        }
+      ]
+    },
+    {
+      "seriesName": "Knight Terrors: Poison Ivy",
+      "seriesStartYear": 2023,
+      "issueNumber": "2",
+      "issueCoverDate": "2023-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1004294"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "14",
+      "issueCoverDate": "2023-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1011773"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "15",
+      "issueCoverDate": "2023-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1020525"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "16",
+      "issueCoverDate": "2024-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1028574"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "17",
+      "issueCoverDate": "2024-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1033106"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "18",
+      "issueCoverDate": "2024-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1038819"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "19",
+      "issueCoverDate": "2024-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1043825"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "20",
+      "issueCoverDate": "2024-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1047047"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "21",
+      "issueCoverDate": "2024-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1050406"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "22",
+      "issueCoverDate": "2024-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1054162"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "23",
+      "issueCoverDate": "2024-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1058409"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "24",
+      "issueCoverDate": "2024-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1061839"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "25",
+      "issueCoverDate": "2024-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1068558"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2024,
+      "issueNumber": "1",
+      "issueCoverDate": "2024-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1066104"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2024,
+      "issueNumber": "2",
+      "issueCoverDate": "2024-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1066720"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2024,
+      "issueNumber": "3",
+      "issueCoverDate": "2024-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1067075"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens",
+      "seriesStartYear": 2024,
+      "issueNumber": "4",
+      "issueCoverDate": "2024-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1067962"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy 2025 Annual",
+      "seriesStartYear": 2026,
+      "issueNumber": "1",
+      "issueCoverDate": "2026-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1143295"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "26",
+      "issueCoverDate": "2024-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1072179"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "27",
+      "issueCoverDate": "2025-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1076366"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "28",
+      "issueCoverDate": "2025-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1080082"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "29",
+      "issueCoverDate": "2025-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1088565"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "30",
+      "issueCoverDate": "2025-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1094357"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "31",
+      "issueCoverDate": "2025-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1097707"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "32",
+      "issueCoverDate": "2025-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1101430"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy/Swamp Thing: Feral Trees",
+      "seriesStartYear": 2024,
+      "issueNumber": "1",
+      "issueCoverDate": "2024-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1075593"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens: Unfit for Orbit",
+      "seriesStartYear": 2025,
+      "issueNumber": "1",
+      "issueCoverDate": "2025-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1117492"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens: Unfit for Orbit",
+      "seriesStartYear": 2025,
+      "issueNumber": "2",
+      "issueCoverDate": "2025-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1118469"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens: Unfit for Orbit",
+      "seriesStartYear": 2025,
+      "issueNumber": "3",
+      "issueCoverDate": "2025-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1120421"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens: Unfit for Orbit",
+      "seriesStartYear": 2025,
+      "issueNumber": "4",
+      "issueCoverDate": "2025-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1121443"
+        }
+      ]
+    },
+    {
+      "seriesName": "Gotham City Sirens: Unfit for Orbit",
+      "seriesStartYear": 2025,
+      "issueNumber": "5",
+      "issueCoverDate": "2025-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1123114"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "33",
+      "issueCoverDate": "2025-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1108459"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "34",
+      "issueCoverDate": "2025-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1113858"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "35",
+      "issueCoverDate": "2025-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1123965"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "36",
+      "issueCoverDate": "2025-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1130079"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "37",
+      "issueCoverDate": "2025-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1136114"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "38",
+      "issueCoverDate": "2026-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1141905"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "39",
+      "issueCoverDate": "2026-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1146675"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "40",
+      "issueCoverDate": "2026-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1151940"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "41",
+      "issueCoverDate": "2026-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1155380"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "42",
+      "issueCoverDate": "2026-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1158147"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "43",
+      "issueCoverDate": "2026-06-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1161295"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "44",
+      "issueCoverDate": "2026-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1165144"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "45",
+      "issueCoverDate": "2026-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1169615"
+        }
+      ]
+    },
+    {
+      "seriesName": "Poison Ivy",
+      "seriesStartYear": 2022,
+      "issueNumber": "46",
+      "issueCoverDate": "2026-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "1175705"
+        }
+      ]
     }
   ]
 }
