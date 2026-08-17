@@ -244,6 +244,90 @@
           "issue": "32059"
         }
       ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "366",
+      "issueCoverDate": "1990-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32419"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "383",
+      "issueCoverDate": "1991-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "34414"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "384",
+      "issueCoverDate": "1991-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "34528"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk Annual",
+      "seriesStartYear": 1968,
+      "issueNumber": "20",
+      "issueCoverDate": "1994-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "138334"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "431",
+      "issueCoverDate": "1995-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "41115"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "432",
+      "issueCoverDate": "1995-08-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "41255"
+        }
+      ]
+    },
+    {
+      "seriesName": "X-Man",
+      "seriesStartYear": 1995,
+      "issueNumber": "20",
+      "issueCoverDate": "1996-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "42888"
+        }
+      ]
     }
   ]
 }
