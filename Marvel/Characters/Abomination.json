@@ -1,0 +1,249 @@
+{
+  "fileDetails": {
+    "UUID": "fa313493-8560-442e-beb2-9a845e46e8e6",
+    "version": 1.0
+  },
+  "listDetails": {
+    "name": "Abomination Reading Order",
+    "description": "Reading order for Abomination character in Marvel comics",
+    "publisher": "Marvel",
+    "type": "character",
+    "tags": [
+      "abomination",
+      "marvel",
+      "Hulk"
+    ],
+    "startYear": 1959,
+    "endYear": 2026
+  },
+  "issueList": [
+    {
+      "seriesName": "Tales to Astonish",
+      "seriesStartYear": 1959,
+      "issueNumber": "90",
+      "issueCoverDate": "1967-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "9300"
+        }
+      ]
+    },
+    {
+      "seriesName": "Tales to Astonish",
+      "seriesStartYear": 1959,
+      "issueNumber": "91",
+      "issueCoverDate": "1967-05-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "9362"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Silver Surfer",
+      "seriesStartYear": 1968,
+      "issueNumber": "12",
+      "issueCoverDate": "1970-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "10630"
+        }
+      ]
+    },
+    {
+      "seriesName": "Thor",
+      "seriesStartYear": 1966,
+      "issueNumber": "178",
+      "issueCoverDate": "1970-07-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "10909"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "136",
+      "issueCoverDate": "1971-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "11279"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "137",
+      "issueCoverDate": "1971-03-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "11327"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "159",
+      "issueCoverDate": "1973-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "12833"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "171",
+      "issueCoverDate": "1974-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "13990"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "194",
+      "issueCoverDate": "1975-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "15865"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "195",
+      "issueCoverDate": "1976-01-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "16003"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "196",
+      "issueCoverDate": "1976-02-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "16080"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "270",
+      "issueCoverDate": "1982-04-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "22084"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "287",
+      "issueCoverDate": "1983-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "23454"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "288",
+      "issueCoverDate": "1983-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "23543"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "289",
+      "issueCoverDate": "1983-11-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "23628"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "290",
+      "issueCoverDate": "1983-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "23727"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk Annual",
+      "seriesStartYear": 1968,
+      "issueNumber": "15",
+      "issueCoverDate": "1986-10-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "27277"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Amazing Spider-Man Annual",
+      "seriesStartYear": 1964,
+      "issueNumber": "23",
+      "issueCoverDate": "1989-09-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "30692"
+        }
+      ]
+    },
+    {
+      "seriesName": "The Incredible Hulk",
+      "seriesStartYear": 1968,
+      "issueNumber": "364",
+      "issueCoverDate": "1989-12-01",
+      "id": [
+        {
+          "name": "comicvine",
+          "issue": "32059"
+        }
+      ]
+    }
+  ]
+}
